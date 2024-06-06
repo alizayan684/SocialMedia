@@ -1,7 +1,7 @@
 # SocialMedia-Account
 
 ## Description
-SocialMedia-Account is a full-stack web application that allows users to create and manage their personal profile pages. It features login, registration, and logout functionalities, along with the ability to post updates, edit personal information, and link to social media accounts.
+SocialMedia-Account is a web application that allows users to create and manage their personal profile pages. It features login, registration, and logout functionalities, along with the ability to post updates, edit personal information, and link to social media accounts.
 
 ## Features
 - **User Authentication**: Secure login, registration, and logout processes.
@@ -25,10 +25,5 @@ SocialMedia-Account is a full-stack web application that allows users to create 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
-## License
-This project is open source and available under the MIT License.
-
 ## Acknowledgments
-- Thanks to all the contributors who have helped with this project.
-- Special thanks to alizayan684 for initiating this project.
-
+- Thanks to my teammates who have helped with this project.
