@@ -5,8 +5,6 @@ SocialMedia-Account is a web application that allows users to create and manage 
 
 ## Features
 - **User Authentication**: Secure login, registration, and logout processes.
-<br>
-![](https://github.com/alizayan684/SocialMedia-Account/blob/main/Login.png)
 - **Profile Page**: Display a profile image, user information, and social media links.
 - **Activity Feed**: Post text updates with dates to share with followers.
 - **Edit Profile**: Users can edit their personal information and profile details.
@@ -15,6 +13,14 @@ SocialMedia-Account is a web application that allows users to create and manage 
 - **Frontend**: React.js
 - **Backend**: Express.js
 - **Database**: PostgreSQL
+## Project UI
+![login](Login.png)
+<br>
+![register](Register.png)
+<br>
+![White](Profile_white.png)
+<br>
+![Black](Profile_black.png)
 
 ## Getting Started
 1. Clone the repository.
