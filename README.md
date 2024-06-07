@@ -5,7 +5,7 @@ SocialMedia-Account is a web application that allows users to create and manage 
 
 ## Features
 - **User Authentication**: Secure login, registration, and logout processes.
-![Login]
+![https://github.com/alizayan684/SocialMedia-Account/blob/main/Login.png]
 - **Profile Page**: Display a profile image, user information, and social media links.
 - **Activity Feed**: Post text updates with dates to share with followers.
 - **Edit Profile**: Users can edit their personal information and profile details.
